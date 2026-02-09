@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\obj\Debug\net8.0\S10275435_PRG2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\obj\Debug\net8.0\S10275435_PRG2Assignment.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\obj\Debug\net8.0\S10275435_PRG2Assignment.AssemblyInfo.cs
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\obj\Debug\net8.0\S10275435_PRG2Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\bin\Debug\net8.0\S10275435_PRG2Assignment.exe
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\bin\Debug\net8.0\S10275435_PRG2Assignment.deps.json
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\bin\Debug\net8.0\S10275435_PRG2Assignment.runtimeconfig.json
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\bin\Debug\net8.0\S10275435_PRG2Assignment.dll
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\bin\Debug\net8.0\S10275435_PRG2Assignment.pdb
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\obj\Debug\net8.0\S10275435_PRG2Assignment.dll
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\obj\Debug\net8.0\refint\S10275435_PRG2Assignment.dll
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\obj\Debug\net8.0\S10275435_PRG2Assignment.pdb
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\obj\Debug\net8.0\S10275435_PRG2Assignment.genruntimeconfig.cache
+C:\Users\User\Downloads\PRG2_PROJECT\S10275435_PRG2Assignment\S10275435_PRG2Assignment\obj\Debug\net8.0\ref\S10275435_PRG2Assignment.dll
